@@ -9,7 +9,7 @@ public interface DataTaskService {
      * Add new task.
      *
      * @param count count
-     * @return list
+     * @return total consumed time in millis
      */
     Long addNewTask(int count);
 }
