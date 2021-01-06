@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @author Administrator
- * @since 2020-01-06
+ * @since 2020-01-06 16:10
  */
 @SpringBootApplication
 public class DataTaskApplication {
